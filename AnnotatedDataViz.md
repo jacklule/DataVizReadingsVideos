@@ -1,17 +1,14 @@
 ###Annotated List of Readings and Videos on Data Visualization
 
-Please enter your one-paragraph summary and review of a video, presentation or reading taken from each link below.
+Please enter below your one-paragraph summary and review of a video, presentation or reading taken from each link below.
 
 - [40 Videos on Data Visualization from Visual Loop](http://visualoop.com/blog/2654/40-must-see-videos-about-data-visualization-and-infographics)
 - [30 Presentations on Data Visualization from Visual Loop](http://visualoop.com/blog/181/30-great-presentations-for-people-interested-in-data-visualization)
 
 Borrowing from Melody Kramer's, excellent [Learning GitHub Without One Line of Code](http://melodykramer.github.io/2015/04/06/learning-github-without-one-line-of-code/), here are instructions on how to contribute to this list:
 
-
-Anyone can add to this list. To add to the list,
-
-Click the fork button, which you'll find on the top right corner of this page.
-In blue, you should now see your username / PublicMedia, then underneath, that it was forked from melodykramer. You're now ready to edit your own version of PublicMedia, which you will merge into the original once your edits are finished.
+- If you are reading this page, you are likely logged into GitHub. If so, then merely click the fork button, which you will find on the top right corner of this page.
+- In blue, you should now see your username /DataVizReadingsVideos, then underneath, that it was forked from jacklule. You're now ready to edit your own version of DataVizReadingsVideo, which you can then merge into the original once your edits are finished.True collaboration!
 You should see a link in blue a little ways down that says README.md. Click that link.
 On the right side of the page, you should now see small icons in a horizontal row: a monitor, a pencil, and a trash. Click on the pencil to edit the page.
 
