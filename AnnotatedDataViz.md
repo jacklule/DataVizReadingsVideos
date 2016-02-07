@@ -4,3 +4,23 @@ Please enter your one-paragraph summary and review of a video, presentation or r
 
 - [40 Videos on Data Visualization from Visual Loop](http://visualoop.com/blog/2654/40-must-see-videos-about-data-visualization-and-infographics)
 - [30 Presentations on Data Visualization from Visual Loop](http://visualoop.com/blog/181/30-great-presentations-for-people-interested-in-data-visualization)
+
+Borrowing from Melody Kramer's, excellent [Learning GitHub Without One Line of Code](http://melodykramer.github.io/2015/04/06/learning-github-without-one-line-of-code/), here are instructions on how to contribute to this list:
+
+
+Anyone can add to this list. To add to the list,
+
+Click the fork button, which you'll find on the top right corner of this page.
+In blue, you should now see your username / PublicMedia, then underneath, that it was forked from melodykramer. You're now ready to edit your own version of PublicMedia, which you will merge into the original once your edits are finished.
+You should see a link in blue a little ways down that says README.md. Click that link.
+On the right side of the page, you should now see small icons in a horizontal row: a monitor, a pencil, and a trash. Click on the pencil to edit the page.
+
+As you likely know, this page is written in a language called markdown. The link to your video or presentation should thus be submitted as follows:
+
+* [Title of Content](link to content) - description of content
+
+Make your changes in the file. Be sure to follow the syntax formatting that already exists. It's in a language called Markdown, and syntax consistancy across the file will make the final product easy to read.
+Scroll down once you're finished with your edits. At the bottom of the page, there's a place to leave a comment about what you've done. This is optional.
+Click "Commit directly to the Master branch." (Remember, this is still your version, not the original.)
+When you go back to the main page for your version of PublicMedia, underneath the green button, you should see a little gray line that says the branch is some number of commits ahead of melodykramer:master. Directly right of that line, click the button for Pull Request.
+Review your edits, and when they are ready, create your pull request.
