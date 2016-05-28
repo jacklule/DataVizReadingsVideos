@@ -13,7 +13,12 @@ Borrowing from Melody Kramer's, excellent [Learning GitHub Without One Line of C
 - In blue, you should now see your username /DataVizReadingsVideos, then underneath, that it was forked from jacklule. You're now ready to edit your own version of DataVizReadingsVideo, which you can then merge into my original once your edits are finished. True collaboration!
 - On the top right side of the page, DataVizReadingsVideo, you should now see small icons in a horizontal row: a monitor, a pencil, and a trash. **Click on the pencil to edit the page.**
 - As you likely know, this page is written in a language called markdown. The **summary to your video or presentation should be submitted as follows**:
-  - [Title of Content] (link to content), with no space between the middle bracket and parentheses. Note whether it is a Video or Presentation or Article. Note length of video or number of slides or number of pages. **Write a 200-word summary** of the piece. End with one sentence of what you thought about the piece. Put your name in parentheses. I will provide a sample below.
+  - [Title of Content] (link to content), with no space between the middle bracket and parentheses. 
+  - Note whether it is a Video or Presentation or Article. 
+  - Note length of video or number of slides or number of pages. 
+  - **Write a 200-word summary** of the piece. 
+  - End with one sentence of what you thought about the piece. 
+  - Put your name in parentheses. I will provide a sample below.
 - Scroll down once you're finished with your summary. At the bottom of the page, there's a place to **leave a comment** about what you have done. This is optional but useful.
 - Click **"Commit directly to the Master branch."** (Remember, this is still **your** master branch, not the original.) You now have to communicate with me and ask me to look at what you have added.
 - When you go back to the main page for your version of DataVizReadingsVideos, underneath the green button, you should see a little gray line that says the branch is some number of commits ahead of jacklule:master. That means your version is now ahead of my master version.
